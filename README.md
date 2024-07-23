@@ -1,5 +1,8 @@
 # selectFromResult Repro
 
+## Issue
+https://github.com/reduxjs/redux-toolkit/issues/3989
+
 ## Problem
 
 ```typescript
